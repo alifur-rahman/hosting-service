@@ -1,0 +1,19 @@
+.al_footerLogo,
+.brand-main {
+  width: 100%;
+  max-width: 240px;
+}
+.al_footerLogo img,
+.brand-main img {
+  width: 100%;
+}
+[data-nav-layout="horizontal"]
+  .app-sidebar
+  .slide-menu.mega-slide-menu::before {
+  inset-inline-start: 20%;
+}
+.pricing-icon img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
