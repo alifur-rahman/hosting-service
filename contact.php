@@ -6,12 +6,12 @@
     <meta charset="UTF-8">
     <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=0'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="author" content="HostingInIndia: Unleash Your Website with One-Click Magic">
+    <meta name="author" content="Hosting Service: Unleash Your Website with One-Click Magic">
     <meta name="keywords"
         content="Discover the ideal web hosting solution for your online success! From shared hosting, domains, to VPS, we offer everything you need to create the perfect website.">
 
     <!-- TITLE -->
-    <title>HostingInIndia: Contact </title>
+    <title>Hosting Service : Contact </title>
 
     <!-- FAVICON -->
     <link rel="icon" href="assets/images/brand/favicon.ico" type="image/x-icon">
@@ -70,7 +70,7 @@
                     <div class="heading-section mb-0">
                         <div class="heading-subtitle"><span class="tx-primary tx-16 fw-semibold">Contact Us</span></div>
                         <div class="heading-title">Get In Touch <span class="tx-primary">With Us</span></div>
-                        <div class="heading-description">Hostinginindia is a global provider company of web hosting and
+                        <div class="heading-description">Hosting Service is a global provider company of web hosting and
                             related services in all over the world.</div>
                     </div>
                     <div class="row justify-content-center">
@@ -115,8 +115,8 @@
                                                             class="bi bi-envelope-plus"></i></span>
                                                 </div>
                                                 <h5 class="mb-1">Email</h5>
-                                                <p class="mb-0">sales@hostinginindia.com
-                                                    billing@hostinginindia.com
+                                                <p class="mb-0">sales@hostingservice.com
+                                                    billing@hostingservice.com
                                                 </p>
                                             </div>
                                         </div>
@@ -130,7 +130,7 @@
                                                             class="bi bi-clock-history"></i></span>
                                                 </div>
                                                 <h5 class="mb-1">Get Support</h5>
-                                                <p class="mb-0">support@hostinginindia.com</p>
+                                                <p class="mb-0">support@hostingservice.com</p>
                                             </div>
                                         </div>
                                     </div>
@@ -232,7 +232,7 @@
                                                                         class="bi bi-envelope-plus"></i></span>
                                                                 <div>
                                                                     <h6 class="mb-0">Email</h6>
-                                                                    <p class="mb-0">sales@hostinginindia.com </p>
+                                                                    <p class="mb-0">sales@hostingservice.com </p>
                                                                 </div>
                                                             </div>
                                                         </li>
