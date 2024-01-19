@@ -6,12 +6,12 @@
     <meta charset="UTF-8">
     <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=0'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="author" content="HostingInIndia: Unleash Your Website with One-Click Magic">
+    <meta name="author" content="Hosting service: Unleash Your Website with One-Click Magic">
     <meta name="keywords"
         content="Discover the ideal web hosting solution for your online success! From shared hosting, domains, to VPS, we offer everything you need to create the perfect website.">
 
     <!-- TITLE -->
-    <title>HostingInIndia: Unleash Your Website with One-Click Magic</title>
+    <title>Hosting Service: Unleash Your Website with One-Click Magic</title>
 
     <!-- FAVICON -->
     <link rel="icon" href="assets/images/brand/favicon.ico" type="image/x-icon">
